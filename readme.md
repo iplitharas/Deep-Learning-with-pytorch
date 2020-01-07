@@ -35,6 +35,7 @@ Help shows all possible options
 
 ### Train and test 
 for default settings for training use print_settings
+
 train and test  must always runner under cuda 
 
 

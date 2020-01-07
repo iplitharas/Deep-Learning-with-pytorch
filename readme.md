@@ -36,6 +36,9 @@ Help shows all possible options
 ### Train and test 
 for default settings for training use print_settings
 
+<img src="./pictures/default_settings.png" alt="Predictions after a training phase" style="width:500px;height:300px;">
+
+
 train must always to run under cuda to be able to finish!
 
 testing using vgg13

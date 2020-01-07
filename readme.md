@@ -17,7 +17,7 @@ This project was focused on learning Neural Networks, Numpy, MatPlotLib and pyto
 Run the main application app.py
 Help shows all possible options
 
-<img src="./pictures/main_1.png" alt="Girl in a jacket" style="width:500px;height:300px;">
+<img src="./pictures/main_1.png" alt="Main app" style="width:500px;height:300px;">
 
 ## Examples
 ### Prediction
@@ -26,11 +26,11 @@ Help shows all possible options
 >from train_set)
 > ### Without restore the state of the model
 
-<img src="./pictures/predict_1.png" alt="Girl in a jacket" style="width:500px;height:300px;">
+<img src="./pictures/predict_1.png" alt="Prediction without trained model" style="width:500px;height:300px;">
 
 >### After restoring the state
 
-<img src="./pictures/predict_2.jpg" alt="Girl in a jacket" style="width:500px;height:300px;">
+<img src="./pictures/predict_2.jpg" alt="Predictions after a training phase" style="width:500px;height:300px;">
 
 
 ### Train and test 

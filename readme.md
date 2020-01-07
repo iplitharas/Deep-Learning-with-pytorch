@@ -1,4 +1,4 @@
-# AI application using pytroch
+# AI application using pytorch
 ## Goal of this project
 A Deep-learning classifier for flower data set https://www.robots.ox.ac.uk/~vgg/data/flowers/.
 using transfer learning from pytorch pre trained models.

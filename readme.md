@@ -36,8 +36,11 @@ Help shows all possible options
 ### Train and test 
 for default settings for training use print_settings
 
-train and test  must always runner under cuda 
+train must always to run under cuda to be able to finish!
 
+testing using vgg13
+
+<img src="./pictures/testing.jpg" alt="Predictions after a training phase" style="width:500px;height:300px;">
 
 
 ## License

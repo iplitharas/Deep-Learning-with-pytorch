@@ -24,7 +24,7 @@ Help shows all possible options
 >Predictions to the trained Neural Network can be done either
 >with the path of the image of without it (it would load a random image
 >from train_set)
-> ### Without restore the state of the model
+> ### Without restoring the state of the model
 
 <img src="./pictures/predict_1.png" alt="Prediction without trained model" style="width:500px;height:300px;">
 
@@ -39,7 +39,7 @@ for default settings for training use print_settings
 <img src="./pictures/default_settings.png" alt="Predictions after a training phase" style="width:500px;height:300px;">
 
 
-train must always to run under cuda to be able to finish!
+train must always  run under cuda to be able to finish!
 
 testing using vgg13
 

@@ -24,7 +24,7 @@ class NetworkCLI(cmd.Cmd):
         self.arch = "vgg13"
         self.data_path = None
         self.epochs = 10
-        self.save_dir = "saved_checkpoints"
+        self.save_dir = "checkpoints"
         self.data_path = "flowers"
         self.top_k = 5
         self.input_layer = 25088
